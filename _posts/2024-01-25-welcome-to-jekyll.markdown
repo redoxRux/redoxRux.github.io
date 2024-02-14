@@ -13,6 +13,3 @@ if there are any feedback that you want to give, contact me through X(twitter), 
 my twitter profile on this website.
 
 this website will be for tech blog but might add some interesting links related to blogs, music and anime
-
-
-i will always be noob but i will never have a noob mentality
