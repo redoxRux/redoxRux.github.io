@@ -21,7 +21,8 @@ One thing to note here is, 'hacker' in these list is 'hacker'(read the below lin
 6. [Paul Graham's blog page](https://www.paulgraham.com/)
 7. [Sam Altman's blog page](https://blog.samaltman.com/)
 8. [xkcd](https://xkcd.com/)
-9. rick-and-morty all seasons
+9. [missing course](https://missing.csail.mit.edu/)
+10. rick-and-morty all seasons
 
 
 note: this is for today, additional links will be added later
