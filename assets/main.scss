@@ -1,0 +1,10 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+
+// Override minima variables before importing
+$base-font-family: "Space Mono", monospace;
+$code-font-family: "Space Mono", monospace;
+
+@import "minima";
