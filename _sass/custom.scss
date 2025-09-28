@@ -141,3 +141,28 @@ pre.highlight {
 .highlight .o { color: #24292f; } // operators
 .highlight .nx { color: #0550ae; } // variables
 .highlight .mi { color: #0550ae; } // numbers
+
+
+// Header alignment and styling fixes
+.site-header .wrapper {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
+
+.site-title {
+  font-weight: 700 !important;
+  color: #000000 !important;
+  font-size: 21px !important;
+}
+
+.header-social {
+  display: flex !important;
+  gap: 20px !important;
+  align-items: center !important;
+  margin-left: auto !important;
+}
+
+.header-social svg {
+  vertical-align: middle !important;
+}
