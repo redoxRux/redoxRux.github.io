@@ -98,6 +98,17 @@ blockquote {
   font-weight: 700 !important;
 }
 
+// Homepage post list spacing
+.home .post-list > li {
+  margin-bottom: 20px !important;
+}
+
+// More space after "Posts" heading
+.home h2.post-list-heading {
+  font-size: 20px !important;
+  margin-bottom: 21px !important;
+}
+
 // Hide the RSS subscription text
 .rss-subscribe {
   display: none !important;
