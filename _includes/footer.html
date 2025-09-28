@@ -11,7 +11,25 @@
       </div>
 
       <div class="footer-col footer-col-2">
-        {%- include social.html -%}
+        <ul class="social-media-list" style="display: flex; gap: 20px; list-style: none; padding: 0; margin: 0; align-items: center;">
+          {%- if site.github_username -%}
+            <li>
+              <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
+                <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>
+                <span class="username">{{ site.github_username| escape }}</span>
+              </a>
+            </li>
+          {%- endif -%}
+          
+          {%- if site.twitter_username -%}
+            <li>
+              <a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
+                <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg>
+                <span class="username">{{ site.twitter_username| escape }}</span>
+              </a>
+            </li>
+          {%- endif -%}
+        </ul>
       </div>
 
       <div class="footer-col footer-col-3">
