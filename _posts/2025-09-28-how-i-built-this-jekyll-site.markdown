@@ -83,7 +83,7 @@ The key challenge was overriding Jekyll's minima theme defaults. Required specif
 ```
 
 **Code and Content Styling:**
-- Code blocks: Light gray background (#f5f5f5) with 3px border radius
+- Code blocks: GitHub-style with light gray background (#f6f8fa) and proper syntax highlighting
 - Blockquotes: Left border accent with indentation
 - Lists: Consistent 14px sizing to match body text
 
@@ -92,7 +92,7 @@ The key challenge was overriding Jekyll's minima theme defaults. Required specif
 Replaced the default footer with icon-only links:
 
 - Email, GitHub, X/Twitter, RSS
-- SVG icons for consistency
+- SVG icons for consistency (18px sizing)
 - Horizontal alignment with flexbox
 - Removed redundant text since RSS is in footer
 
@@ -100,12 +100,16 @@ Replaced the default footer with icon-only links:
 
 **Favicon**: Added a simple sun icon that matches the minimal aesthetic.
 
+**Code highlighting**: Implemented GitHub-style syntax highlighting for clean, professional code blocks with proper contrast and readability.
+
 **Removed clutter**: 
 - Hid "subscribe via RSS" text (redundant with footer icon)
-- Reduced post title sizes on homepage
-- Cleaned up spacing and alignment
+- Reduced post title sizes on homepage (16px vs 21px for articles)
+- Fine-tuned spacing throughout (21px after "Posts" heading, 20px between posts)
 
-**RSS Feed**: Kept the feed working for tech-savvy readers who use RSS readers.
+**Icon-only footer**: Clean horizontal layout with email, GitHub, X/Twitter, and RSS icons at 18px with proper spacing.
+
+**RSS Feed**: Maintained feed functionality for developers who use RSS readers.
 
 ## The Result
 
