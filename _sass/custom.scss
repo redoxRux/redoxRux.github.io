@@ -91,3 +91,14 @@ blockquote {
   padding-left: 16px;
   margin: 16px 0;
 }
+
+// Homepage post titles - smaller size
+.home .post-link {
+  font-size: 16px !important;
+  font-weight: 700 !important;
+}
+
+// Hide the RSS subscription text
+.rss-subscribe {
+  display: none !important;
+}
