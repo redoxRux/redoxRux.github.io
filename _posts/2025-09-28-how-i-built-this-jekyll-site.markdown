@@ -50,22 +50,42 @@ $code-font-family: "JetBrains Mono", monospace;
 
 ## Custom Styling
 
-Created `_sass/custom.scss` for typography hierarchy:
+Created `_sass/custom.scss` for a complete typography hierarchy using JetBrains Mono throughout:
 
-- **Headers**: 21px, bold, black
-- **Body text**: 14px, regular, gray (#383838)  
-- **Meta text**: 12px, lighter gray
-- **Links**: Blue with hover underlines
+**Typography System:**
+- **H1 (post titles)**: 21px, bold, black
+- **H2 (section headers)**: 16px, bold, black  
+- **H3 (subsections)**: 15px, bold, black
+- **Body text**: 14px, regular, gray (#383838)
+- **Meta text**: 12px, lighter gray (#666666)
+- **Links**: Blue (#0066cc) with hover underlines
 
-The trick was using `!important` to override the theme's default styles:
+**Homepage Specific Adjustments:**
+- Post titles: 16px (smaller than article H1s)
+- "Posts" heading: 20px with 21px bottom margin
+- Post list spacing: 20px between items
+
+The key challenge was overriding Jekyll's minima theme defaults. Required specific selectors and `!important` declarations:
 
 ```scss
+// More specific than theme defaults
 .page-content h1, .post-content h1, h1.post-title {
   font-size: 21px !important;
   font-weight: 700 !important;
   color: #000000 !important;
 }
+
+// Homepage-specific styling
+.home h2.post-list-heading {
+  font-size: 20px !important;
+  margin-bottom: 21px !important;
+}
 ```
+
+**Code and Content Styling:**
+- Code blocks: Light gray background (#f5f5f5) with 3px border radius
+- Blockquotes: Left border accent with indentation
+- Lists: Consistent 14px sizing to match body text
 
 ## Minimal Footer with Icons
 
