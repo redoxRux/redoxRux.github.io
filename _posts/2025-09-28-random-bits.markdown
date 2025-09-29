@@ -8,3 +8,6 @@ categories: thoughts misc
 beep boop bits
 
 ---
+
+
+download a paper, implement it, and keep doing this until you have skills - gh
