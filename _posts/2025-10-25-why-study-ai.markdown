@@ -7,58 +7,46 @@ categories: thoughts ai
 
 I had real interest in AI. Then LLMs exploded and I lost it completely.
 
-## The Problem
-
-Before the LLM boom, AI meant something different. Understanding intelligence. Building minds that think. Deep questions about consciousness, reasoning, learning. Elegant algorithms capturing something profound.
-
-Then ChatGPT happened. Suddenly everyone's an "AI engineer" for calling APIs. Billions of dollars. Closed models. Corporate control. The questions I cared about buried under hype.
-
-Now studying AI feels like surrendering to the corporate machine instead of pursuing genuine curiosity.
-
 ## What Got Hijacked
 
-My interest wasn't in language models. It was in intelligence itself. How does a mind work? Can consciousness emerge from computation? What is thinking, really?
+Before the LLM boom, AI meant something different to me. Understanding intelligence. Building minds that think. Deep questions about consciousness, reasoning, learning.
 
-LLMs became "AI" and everything else disappeared from conversation. The genuine scientific questions got replaced by product demos and marketing.
+Then ChatGPT happened. Suddenly everyone's an "AI engineer" for calling APIs. Billions of dollars. Closed models. Corporate control. The questions I cared about disappeared from conversation.
 
-I'm not demotivated about the technology. I'm demotivated about what it became.
+Now studying AI feels like surrendering to hype instead of pursuing genuine curiosity.
 
 ## The Money Problem
 
-Only large companies control the cutting edge. OpenAI, Google, Meta. Billions in compute. Closed research. It feels like only money matters, nothing else.
+Only large companies control the cutting edge. OpenAI, Google, Meta. Billions in compute. Closed research. It feels like only money matters.
 
-The most interesting work isn't at these companies though. It's in open source projects, individual researchers with unique approaches, problems the big companies ignore. Geohot built tinygrad not to compete with PyTorch, but to understand neural networks from first principles.
+The most interesting work isn't at these companies though. It's in open source projects, individual researchers, problems the big companies ignore.
 
-Corporate dominance is mostly in deployment, not innovation. Real advancement comes from understanding fundamentals, novel architectures, research without immediate commercial value.
+Corporate dominance is deployment, not innovation. Real advancement comes from understanding fundamentals, novel architectures, research without immediate commercial value.
 
 ## The Real Question
 
-Should I study LLMs to catch up? No. That's the wrong frame.
+Should I study LLMs to catch up? Wrong frame.
 
 The question is: do I want to understand how intelligence works?
 
-If yes, LLMs are currently the best window into that question, regardless of who controls the big models. They reveal how pattern recognition works, how knowledge gets encoded, how reasoning emerges from statistics.
+LLMs might reveal something about intelligence. Or they might just be very good pattern matchers that don't actually think. I don't know yet.
 
-Not because they're hyped. Because they're genuine puzzles about the nature of thought.
+That's the tension. The questions I care about are about real intelligence. Whether current AI gets me closer to those answers - I'm still figuring that out.
 
-## What Actually Matters
+## What Matters
 
-Study by implementation, not usage. Build a transformer from scratch. Implement attention mechanisms. Train small models on interesting datasets. Experiment with novel architectures.
+If I study this, it's through implementation. Build a transformer from scratch. Implement attention mechanisms. Train small models. Experiment with novel architectures.
 
-This isn't about competing with OpenAI. It's about understanding intelligence.
+The genuine AI research is still happening. Consciousness in machines. How cognition emerges from computation. Novel architectures that think differently. Understanding intelligence from first principles.
 
-The genuine AI research is still happening. Consciousness and self-awareness in machines. How cognition emerges from computation. Novel architectures that think differently. Understanding intelligence from first principles.
+## Where I Am
 
-Scientists doing this work don't care about ChatGPT either.
+I want to reconnect with the AI that matters. The questions that made me interested before the hype, before the corporate takeover.
 
-## The Real Conflict
-
-I want to reconnect with the AI that matters. The questions that made me interested in the first place. Before the hype, before the corporate takeover.
-
-How does a mind work? Can consciousness emerge from computation? What is intelligence, really? How do you build something that truly thinks?
+How does a mind work? Can consciousness emerge from computation? What is intelligence? How do you build something that truly thinks?
 
 LLMs might be relevant to these questions. Or they might not. But the questions themselves are eternal.
 
-My real interest didn't disappear. It got buried under frustration and corporate bullshit. The challenge is finding the path back to genuine curiosity.
+My real interest didn't disappear. It got buried under frustration. The challenge is finding the path back to genuine curiosity.
 
-The AI I care about still exists. It's just not trending on Twitter.
+The AI I care about still exists. It's just not trending on Twitter/X.
