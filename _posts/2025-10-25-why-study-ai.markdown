@@ -50,3 +50,8 @@ LLMs might be relevant to these questions. Or they might not. But the questions 
 My real interest didn't disappear. It got buried under frustration. The challenge is finding the path back to genuine curiosity.
 
 The AI I care about still exists. It's just not trending on Twitter/X.
+
+---
+<br>
+that was the end of the blog;
+Shortly after publishing, I found <b>[this](https://colah.github.io/notes/taste/)</b>. It answered most of my questions, it might answer yours too!
