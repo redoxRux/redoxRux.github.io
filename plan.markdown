@@ -8,6 +8,17 @@ raw notes and daily updates.
 
 ---
 
+**2025-10-27**
+
+okay okay okay,
+
+as coach carter says  "What is your deepest fear?"
+
+"Our deepest fear is not that we are inadequate.
+ Our deepest fear is that we are powerful beyond measure. 
+ It is our light, not our darkness that most frightens us..."
+---
+
 **2025-10-25**
 
 I am here to create difference
