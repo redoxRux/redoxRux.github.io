@@ -8,6 +8,10 @@ raw notes and daily updates.
 
 
 
+**2025-11-14**
+be the craziest person you'll ever meet
+
+
 **2025-10-29**
 
 “I think human consciousness is a tragic misstep in human evolution. We became too self aware; nature created an aspect of nature separate from itself. We are creatures that should not exist by natural law. We are things that labor under the illusion of having a self, a secretion of sensory experience and feeling, programmed with total assurance that we are each somebody, when in fact everybody’s nobody. I think the honorable thing for our species to do is deny our programming, stop reproducing, walk hand in hand into extinction, one last midnight, brothers and sisters opting out of a raw deal.”
