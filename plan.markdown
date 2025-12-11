@@ -8,7 +8,23 @@ raw notes and daily updates.
 
 
 
+**2025-12-11**
+
+My old manager asked me what I wanted to be. I said the GOAT. He told me: "define what GOAT means. Can you take measurable steps toward that path, and are you doing it one by one? That way you will know you are on the right path."
+
+ Sometimes it might not be easy, but you still have a way.
+
+Another thing he told me:" if you are very ambitious, you should be like a magnet, absorbing everything at a faster rate—more knowledge, more things to do."
+
+
+a good one right?
+
+This quote hits me:
+"If you want to win the lottery, then at least pay for the ticket."
+I haven't seen the movie yet, but maybe it says something deep about karma or the task that you have to do.
+
 **2025-11-14**
+
 be the craziest person you'll ever meet
 
 
