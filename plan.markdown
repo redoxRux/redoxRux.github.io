@@ -9,6 +9,8 @@ raw notes and daily updates.
 **2026-01-05**
 
 
+I have to write some few raw things, lets do it today ig
+
 <br>
 
 download a paper, implement it, and keep doing this until you have skills - geohot
