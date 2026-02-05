@@ -6,6 +6,15 @@ permalink: /plan/
 
 raw notes and daily updates.
 
+
+
+**2026-02-05**
+
+ Criticism seems sophisticated, and making new things often seems awkward, especially at first; and yet it's precisely those first steps that are most rare and valuable
+                                                    - [what to do](https://www.paulgraham.com/do.html)
+
+
+                                                    
 **2026-01-05**
 
 
